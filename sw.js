@@ -1,7 +1,7 @@
 // Barbossa's Bounty offline cache. The version changes whenever the game is rebuilt, which refreshes the cache.
 // The page itself is fetched fresh when online (so a new upload shows up at once); models and code come from the cache;
 // music is cached the first time each track plays, so the first install stays small.
-const CACHE = 'bounty-b076021a6c';
+const CACHE = 'bounty-14b6933b94';
 const FILES = [
  "./",
  "./assets/extra.glb",
