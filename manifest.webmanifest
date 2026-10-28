@@ -1,0 +1,16 @@
+{
+  "name": "Barbossa's Bounty",
+  "short_name": "Bounty",
+  "description": "A pirate adventure: sail by the wind, dig up treasure, board rival ships and fight with steel and powder.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#14191c",
+  "theme_color": "#14191c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
