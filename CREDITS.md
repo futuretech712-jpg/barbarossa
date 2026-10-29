@@ -1,5 +1,7 @@
 # Credits
 
+Barbossa's Bounty is made by **RafoThePirate**.
+
 Third-party assets used in Barbossa's Bounty and their licences. CC BY models require the credit below; packs marked "no redistribution" may be used inside the game but not shared as separate files.
 
 | Asset | Author | License |
@@ -9,6 +11,7 @@ Third-party assets used in Barbossa's Bounty and their licences. CC BY models re
 | Impact, RPG and UI sound effects | [Kenney](https://kenney.nl) | CC0 1.0 |
 | Music: Pirate Music Pack (tracks 1 to 8) | AlkaKrab | Royalty-free game licence (see the pack's licence; no redistribution of the tracks on their own) |
 | Victory sting: original composition for this game, rendered with the FluidR3 GM soundfont | Frank Wen (soundfont) | MIT |
+| "Low-Poly Pirate Ship" (the Man-o'-War) | [Greggory_Fisher](https://sketchfab.com/3d-models/low-poly-pirate-ship-c5e06cf1ba164b749cb47044fe7b86eb), Sketchfab | CC BY 4.0 |
 | Low poly Pirate ship (the trader ships) | PigArt, Blend Swap #74378 | CC BY 3.0 |
 | Galeon Pirate shipwreck (the wreck on Wreckers' Shoal) | skaldy, Blend Swap #73625 | CC BY 3.0 |
 | Low Poly Pirate & Beach Pack (lighthouse, shells, starfish, rocks, rope, rum, skulls, flag, map, gold) | reodesuxz | Free for personal and commercial projects, no redistribution of the files on their own |

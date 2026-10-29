@@ -1,10 +1,11 @@
 // Barbossa's Bounty offline cache. The version changes whenever the game is rebuilt, which refreshes the cache.
 // The page itself is fetched fresh when online (so a new upload shows up at once); models and code come from the cache;
 // music is cached the first time each track plays, so the first install stays small.
-const CACHE = 'bounty-b076021a6c';
+const CACHE = 'bounty-ef6c83aa2d';
 const FILES = [
  "./",
  "./assets/extra.glb",
+ "./assets/manowar.glb",
  "./assets/music/pirate1.mp3",
  "./assets/music/pirate2.mp3",
  "./assets/music/pirate3.mp3",
